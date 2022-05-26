@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MobX-#F9955?style=flat-square&logo=MobX&logoColor=white"/>
+
 
 
 <!--
