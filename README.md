@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=shorry&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=shorrysorry%20github&desc=welcome%20to&fontAlign=70&fontSize=40&fontAlignY=35&rotate=8&animation=twinkling&descAlign=42)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshorrysorry%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -13,8 +13,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shorrysorry)](https://github.com/shorrysorry/github-readme-stats)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
