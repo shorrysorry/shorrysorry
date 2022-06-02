@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=shorrysorry%20github&desc=welcome%20to&fontAlign=70&fontSize=40&fontAlignY=35&rotate=8&animation=twinkling&descAlign=42)
 
-🐶Today
----
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshorrysorry%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
+
+🐶AboutMe
+---
+코드 한줄에도 사람냄새나고 인간미가 묻어나오는 개발자를 꿈꿉니다.
+
+[shorrysorry 이력서 바로가기](https://burly-trail-0a0.notion.site/Front-End-Developer-99726e92894841979d97bc9b97b2f22e)
+
 
 🐺Stack
 ---
@@ -17,7 +21,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shorrysorry)](https://github.com/shorrysorry/github-readme-stats)
 
-🦁Top Languages
+🦁TopLanguages
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shorrysorry)](https://github.com/shorrysorry/github-readme-stats)
