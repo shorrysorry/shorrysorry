@@ -4,9 +4,11 @@
 
 🐶AboutMe
 ---
-코드 한줄에도 사람냄새나고 인간미가 묻어나오는 개발자를 꿈꿉니다.
+- 코드 한줄에도 사람냄새나고 인간미가 묻어나오는 개발자를 꿈꿉니다.
 
-[shorrysorry 이력서 바로가기](https://burly-trail-0a0.notion.site/Front-End-Developer-99726e92894841979d97bc9b97b2f22e)
+- GRIT ( 성장(Growth) , 회복력(Resilience) , 내재적 동기(Intrinsic Motivation) , 끈기(Tenacity) ) 을 기반으로 더 좋은 기능과 개발 환경을 만들어 나가려고 노력합니다.
+
+- [이력서 바로가기](https://burly-trail-0a0.notion.site/Front-End-Developer-99726e92894841979d97bc9b97b2f22e)
 
 
 🐺Stack
