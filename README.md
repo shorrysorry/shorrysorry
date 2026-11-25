@@ -6,6 +6,7 @@
 
 <p align="center">
   <samp>
+    <a href="https://github.com/shorrysorry/work-log">work log</a> ·
     <a href="https://github.com/shorrysorry/skills">agent skills</a> ·
     <a href="https://github.com/shorrysorry?tab=repositories">repos</a>
   </samp>
@@ -23,6 +24,7 @@
 
 - 🏢 채용 SaaS의 프론트엔드 모노레포 개발 — 백오피스 · 채용 사이트 · Chrome 확장 · Electron 데스크톱 앱
 - 🤖 Claude Code · Codex 기반 **팀 AI 개발 워크플로** 개선에 기여 — 멀티 에이전트, hooks, skills, MCP
+- 🗂️ 4년간 맡은 문제와 판단을 제품 개발 · AX 전환 · 개발 프로세스로 정리 → [**shorrysorry/work-log**](https://github.com/shorrysorry/work-log)
 - 📚 쓸 만한 오픈소스 agent skills를 모아 분류하는 중 → [**shorrysorry/skills**](https://github.com/shorrysorry/skills)
 
 ## 🤖 How I work with AI
